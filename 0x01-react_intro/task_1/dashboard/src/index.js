@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './App.css';
-import App from './App';
+// src/index.js
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
 import Notifications from "./Notifications";
 
 ReactDOM.render(<App />, document.getElementById("root"));
